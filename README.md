@@ -5,7 +5,7 @@
 
 https://uevitondev-dsmovie.netlify.app/
 
-Big Game Survey é uma aplicação full stack web e mobile construída durante a 6ª edição da **Semana DevSuperior** (#sds6), evento organizado pela [DevSuperior](https://devsuperior.com "Site da DevSuperior").
+Big Game Survey é uma aplicação full stack web e mobile construída durante a 6ª edição da **Semana DevSuperior** (#sds6), evento organizado pela [DevSuperior](https://devsuperior.com.br/cursos "Site da DevSuperior").
 
 A aplicação consiste em uma listagem de filmes, os usuários podem avaliar os mesmos com uma quantidade de estrelas, e os mesmos são listados contendo as médias das respectivas avaliações dadas pelos usuários.
 
